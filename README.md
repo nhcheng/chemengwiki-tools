@@ -1,6 +1,6 @@
 The original documentation is available at [chemengwiki.com/Documentation/chemengwiki-tools](https://chemengwiki.com/en/Documentation/chemengwiki-tools). The following is an edit of the original document. 
 
-> There must be a better way to do the conversion. I am highly inexperienced with version control, documentation, and Python hence this repository is severely lacking in context. I will gradually add comments to the scripts to provide a better explanation. 
+> There must be a better way to do the conversion. I am highly inexperienced with version control, documentation, and Python hence this repository is severely lacking in both context and efficiency. Although the automation is crude, it has saved a significant amount of time. I will gradually add comments to the scripts to provide a better explanation. 
 
 #  Migration From Confluence to Wiki.js
 This document highlights the conversion of chemengwiki pages from Confluence to Wiki.js. The process is quite monotonous and laborious, but some of it can be automated with scripts. 
