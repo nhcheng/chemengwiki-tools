@@ -28,8 +28,8 @@ Wiki.js technically does not use folders. The folders are specified in the path.
 Conversion is mainly done via the [chemengwiki-migration](https://chemengwiki-migration.herokuapp.com) page. We're still using Wiki.js; we're just using another webpage to prevent cache issues. 
 
 > Login with:
-> Username: `admin@chemengwiki.com`
-> Password: `chemengwikiadmin`
+> Username: 
+> Password: 
 >
 
 1. Copy the HTML source code from the Confluence page. This is done through clicking "Edit" and then clicking "Open in source editor" (`< >`) on the top right. In his document, Jingxian recommended copying chunk by chunk (200 to 300 lines).
